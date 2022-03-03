@@ -1,4 +1,4 @@
-Files and Functions
+## Files and Functions
 
 1-listit ... Display the contents list of your current directory.
 
