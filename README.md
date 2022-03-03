@@ -1,1 +1,1 @@
-First readme file
+Practice on terminal commands
