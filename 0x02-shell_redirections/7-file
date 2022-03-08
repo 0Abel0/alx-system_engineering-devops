@@ -1,2 +1,2 @@
 #!/bin/bash
-touch \*\\'"Best School"\'\\*$\?\*\*\*\*\*:); "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+echo "Best School" >  alx-system_engineering-devops/0x02-shell_redirections/3-twofiles
